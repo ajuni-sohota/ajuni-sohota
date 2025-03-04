@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ajuni Sohota
+## Bioinformatics Specialist | Data Scientist | Molecular Biologist
 
-<!--
-**ajuni-sohota/ajuni-sohota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I combine 7+ years of biotech industry experience with strong computational skills to solve complex biological problems.
 
-Here are some ideas to get you started:
+### 🧬 Bioinformatics
+- RNA-seq analysis pipelines (STAR, Salmon, DESeq2)
+- Regulatory element analysis with MPRA
+- NGS data processing and quality control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Data Science
+- Predictive modeling with Random Forest, XGBoost
+- ETL pipelines for heterogeneous data
+- Interactive dashboards with Streamlit
+
+### 🧫 Molecular Biology
+- CRISPR-Cas9 genome editing
+- Cell engineering for gene therapy applications
+- Flow cytometry analysis
+
+### 📫 Connect
+- Email: ajunisohota@gmail.com
+- LinkedIn: [linkedin.com/in/ajuni-sohota](https://linkedin.com/in/ajuni-sohota)
+- Bay Area, CA

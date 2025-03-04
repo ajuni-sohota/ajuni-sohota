@@ -1,24 +1,27 @@
 # Ajuni Sohota
 ## Bioinformatics Specialist | Data Scientist | Molecular Biologist
 
-I combine 7+ years of biotech industry experience with strong computational skills to solve complex biological problems.
+Combining computational expertise with biological knowledge to accelerate therapeutic discovery and development.
 
 ### 🧬 Bioinformatics
-- RNA-seq analysis pipelines (STAR, Salmon, DESeq2)
+- RNA-seq pipeline development & optimization (STAR, Salmon, DESeq2)
 - Regulatory element analysis with MPRA
-- NGS data processing and quality control
+- NGS data processing with scalable, reproducible workflows
 
 ### 📊 Data Science
-- Predictive modeling with Random Forest, XGBoost
-- ETL pipelines for heterogeneous data
-- Interactive dashboards with Streamlit
+- Predictive modeling for biological activity using Random Forest, XGBoost
+- ETL pipelines for integrating heterogeneous biomedical data
+- Interactive dashboards visualizing complex biological insights
 
 ### 🧫 Molecular Biology
-- CRISPR-Cas9 genome editing
-- Cell engineering for gene therapy applications
-- Flow cytometry analysis
+- CRISPR-Cas9 gene editing for therapeutic development
+- Cell engineering techniques advancing to clinical trials
+- Flow cytometry analysis and experimental design
+
+### 🚀 Featured Projects
+- [Drug Discovery ML Platform](https://github.com/ajuni-sohota/Bioinformatics_Drug_Discovery_ChEMBL) - Predicting compound biological activity
+- [RNA-seq Analysis Best Practices](https://github.com/ajuni-sohota/RNA-seq_Analysis_Guide) - Standardized NGS analysis workflow
+- [ETL Data Pipeline](https://github.com/ajuni-sohota/ETL_WorldBanks) - End-to-end data integration solution
 
 ### 📫 Connect
-- Email: ajunisohota@gmail.com
-- LinkedIn: [linkedin.com/in/ajuni-sohota](https://linkedin.com/in/ajuni-sohota)
-- Bay Area, CA
+[Email](mailto:ajunisohota@gmail.com) | [LinkedIn](https://linkedin.com/in/ajuni-sohota) | Bay Area, CA
